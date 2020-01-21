@@ -1,6 +1,6 @@
 {
     "workshop1": {
-        "name": "Serkan Ozal, Hamit Burak Emre & Ozge Lule",
+        "name": "Serkan Özal, Hamit Burak Emre & Özge Lüle",
         "photo": "workshop1.gif",
         "title": "Building a 100% Serverless Blog Site Application with the Right Observability and Security",
         "description": "In the workshop, at first, we will build blog post handling and processing parts of a blog site application from scratch step by step on AWS Lambda. Applications will be interacted and pipelined with each other through AWS services like API Gateway, SQS, SNS, DynamoDB and many others. We will discuss the best practices for debugging a serverless application written in Node.js while developing the application. Then, we will grasp the importance of observability in distributed serverless applications and learn how to monitor this application s with CloudWatch, X-Ray, and Thundra. Finally, we will talk about potential security threats for a serverless application and how to address those with least privileged IAM permissions and Thundra’s built-in security. <br/>Take-aways: <br/>* Understanding the internals and capabilities of AWS components in a serverless architecture. <br/>* Discovering different ways of debugging a serverless application <br/>* Understanding of why observability is crucial for your application <br/>* The ways of gaining observability with cloud provided solutions and with Thundra <br/>* Understanding common security pitfalls in serverless applications and potential solutions to these.",

@@ -12,6 +12,13 @@
         "title": "The Difficult Second Album",
         "description": "In 2019 the team behind LEGO.com delivered the engineering equivalent of the world-beating breakthrough debut album - moving in just over a year from an inflexible and monolithic on-premise commerce architecture to the brave new world of headless, serverless commerce running fully in the public cloud - with fantastic results for the LEGO Group. <br/>Now in 2020 we stand with the Difficult Second Album ahead of us. How do we beat - in fact how do we even match - the killer debut? How do we make sure our second opus is less like The Stone Roses’ ‘The Second Coming’ and more like Nirvana’s ‘Nevermind’?<br/>In this talk, Simon Young - Director of Software Engineering & Architecture at The LEGO Group - will take you through the key success factors of the LEGO.com engineering transformation to date, look at the challenges of running a serverless-based platform at scale and consider how to maintain that architectural flexibility as the serverless landscape continues to evolve and the product and the teams responsible for the product scale to meet ever-increasing expectations.",
         "about": "Simon is an experienced software engineering leader and us currently Director of Software Engineering and Architecture at the LEGO Group where he is responsible for the engineering team behind LEGO.com."
+    },
+    "benjamin-smith": {
+        "name": "Benjamin Smith",
+        "photo": "benjamin-smith.jpg",
+        "title": "Go serverless with the new LAMP stack for 2020",
+        "description": "Using this new LAMP stack to build serverless applications allows PHP developers to benefit from the agility and scalability enabled by the serverless paradigm, all without needing to manage servers. <br/>I'll demo how to get started running your PHP code using functions as a service. You'll learn how to connect to databases at scale with spiky workloads, and continue to use your favourite libraries and tools, without impacting performance or availability. <br/>Learn how to become a serverless PHP developer, and use the world's most popular web runtime to build scalable, agile apps without the server management",
+        "about": "I'm a Senior developer advocate at AWS with a passion for serverless, automation and open source technology. I love learning from other developers and sharing my own experience and knowledge with serverless application development."
     }
 
 }

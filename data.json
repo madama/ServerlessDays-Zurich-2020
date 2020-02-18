@@ -26,6 +26,13 @@
         "title": "Go serverless with the new LAMP stack for 2020",
         "description": "Using this new LAMP stack to build serverless applications allows PHP developers to benefit from the agility and scalability enabled by the serverless paradigm, all without needing to manage servers. <br/>I'll demo how to get started running your PHP code using functions as a service. You'll learn how to connect to databases at scale with spiky workloads, and continue to use your favourite libraries and tools, without impacting performance or availability. <br/>Learn how to become a serverless PHP developer, and use the world's most popular web runtime to build scalable, agile apps without the server management",
         "about": "I'm a Senior developer advocate at AWS with a passion for serverless, automation and open source technology. I love learning from other developers and sharing my own experience and knowledge with serverless application development."
+    },
+    "mete-atamel": {
+        "name": "Mete Atamel",
+        "photo": "mete-atamel.jpg",
+        "title": "Serverless agility meets container flexibility with Knative and Cloud Run",
+        "description": "When you build an app, you typically need to choose agility with serverless or flexibility with containers but not both. But why does it have to be that way? Wouldn't it be nice to have the best of both worlds? In this talk, we'll look at the open source project Knative and its managed cousin Cloud Run on Google Cloud. Through a series of demos, we'll see how these projects enable you to quickly deploy containers in a serverless way on wherever you want, either on-prem or in the cloud. ",
+        "about": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian."
     }
 
 }

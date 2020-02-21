@@ -33,6 +33,13 @@
         "title": "Serverless agility meets container flexibility with Knative and Cloud Run",
         "description": "When you build an app, you typically need to choose agility with serverless or flexibility with containers but not both. But why does it have to be that way? Wouldn't it be nice to have the best of both worlds? In this talk, we'll look at the open source project Knative and its managed cousin Cloud Run on Google Cloud. Through a series of demos, we'll see how these projects enable you to quickly deploy containers in a serverless way on wherever you want, either on-prem or in the cloud. ",
         "about": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian."
+    },
+    "serkan-ozal": {
+        "name": "Serkan Özal",
+        "photo": "serkan-ozal.jpg",
+        "title": "Write Once, Debug Everywhere from Development to Production",
+        "description": "In God’s world, debugging may not be necessary as they can write perfect code which never fails. But we mortals are error prone and can make mistakes while developing one way or another. And even we may not be aware of the bug during development but occur on production. So debugging is a continuous process during all the phases of software development lifecycle. As debugging is always there since the beginning of software industry, there are already a bunch of approaches and best practices. However, with the microservice and serverless evolution, these practices need to be updated according to the new paradigms.<br/>In this talk, we will walk through <br/>- challenges of debugging serverless applications <br/>- new approaches (including live and offline debugging) to debug serverless applications <br/>- real life cases (bug hunting stories) where debugging is a crucial task",
+        "about": "Serkan Özal is the CTO and founder of Thundra (www.thundra.io), which is serverless centric application debugging, monitoring and security solution, and living in Turkey. He has 10+ years of expertise in software development and he is a PhD candidate at METU. He is an AWS Certified Engineer and has a patent about cache eviction on distributed environments. He is mainly working on serverless architectures, distributed systems and monitoring tools."
     }
 
 }

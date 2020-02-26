@@ -40,6 +40,13 @@
         "title": "Write Once, Debug Everywhere from Development to Production",
         "description": "In God’s world, debugging may not be necessary as they can write perfect code which never fails. But we mortals are error prone and can make mistakes while developing one way or another. And even we may not be aware of the bug during development but occur on production. So debugging is a continuous process during all the phases of software development lifecycle. As debugging is always there since the beginning of software industry, there are already a bunch of approaches and best practices. However, with the microservice and serverless evolution, these practices need to be updated according to the new paradigms.<br/>In this talk, we will walk through <br/>- challenges of debugging serverless applications <br/>- new approaches (including live and offline debugging) to debug serverless applications <br/>- real life cases (bug hunting stories) where debugging is a crucial task",
         "about": "Serkan Özal is the CTO and founder of Thundra (www.thundra.io), which is serverless centric application debugging, monitoring and security solution, and living in Turkey. He has 10+ years of expertise in software development and he is a PhD candidate at METU. He is an AWS Certified Engineer and has a patent about cache eviction on distributed environments. He is mainly working on serverless architectures, distributed systems and monitoring tools."
+    },
+    "luca-bianchi": {
+        "name": "Luca Bianchi",
+        "photo": "luca-bianchi.png",
+        "title": "Serving deep learning models through a serverless pipeline",
+        "description": "This talk is the story about how we implemented our Image Memorability feature of Neosperience Cloud. It starts right after the last line of model notebook has been written and presents how we managed to bring it into production, built endpoints, events and lambdas to make it a full fledged service. We’ll discuss about REST interfaces for image upload to S3, SQS events to handle coordination, and web sockets to push incremental inference results to the client.",
+        "about": "I currently serve as CTO at Neosperience, an italian based company that develop a SaaS cloud platform on AWS, able to understand what makes every customer unique and engage her in a tailored 1:1 experience. I followed architecture choices through the years, making Neosperience Cloud 100% serverless. I am also co-organizer of Serverless Meetup Italy and ServerlessDays Milano"
     }
 
 }

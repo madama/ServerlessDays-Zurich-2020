@@ -47,6 +47,13 @@
         "title": "Serving deep learning models through a serverless pipeline",
         "description": "This talk is the story about how we implemented our Image Memorability feature of Neosperience Cloud. It starts right after the last line of model notebook has been written and presents how we managed to bring it into production, built endpoints, events and lambdas to make it a full fledged service. We’ll discuss about REST interfaces for image upload to S3, SQS events to handle coordination, and web sockets to push incremental inference results to the client.",
         "about": "I currently serve as CTO at Neosperience, an italian based company that develop a SaaS cloud platform on AWS, able to understand what makes every customer unique and engage her in a tailored 1:1 experience. I followed architecture choices through the years, making Neosperience Cloud 100% serverless. I am also co-organizer of Serverless Meetup Italy and ServerlessDays Milano"
+    },
+    "michal-knobel": {
+        "name": "Michal Knobel",
+        "photo": "michal-knobel.png",
+        "title": "From monolith to serverless in 6 months",
+        "description": "This talk is about serverless journey at Coople, where from last November we are working on changing monolith into full serverless system. It is about our successes but also about failures during developing and introducing the serverless event store and read models. It is also about changing culture from dev to devops and selling it to the company.",
+        "about": "My name is Michal Knobel. I am a Solution Architect at Coople with more than 10 years of experience. I am quite new to serverless, but I have already learned a lot. Convincing people to Serverless is very hard but I went through this journey with 5 teams at Coople, so the audience at ServerlessDays should be easier to do."
     }
 
 }

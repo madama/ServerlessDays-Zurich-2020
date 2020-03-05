@@ -545,6 +545,7 @@ span.workshop__left__title {
 
     header {
         min-height: 150px;
+        position: absolute;
     }
     main {
         margin-top: 150px;

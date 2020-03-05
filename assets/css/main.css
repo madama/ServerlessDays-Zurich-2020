@@ -576,7 +576,10 @@ span.workshop__left__title {
         text-align: center;
     }
 
-
+    .speakers__item {
+        width: inherit;
+    }
+    
     .modal {
         width: 90%;
         margin-left: -45%; /* Negative half of width. */
@@ -597,6 +600,13 @@ span.workshop__left__title {
 }
 
 @media screen and (max-width: 864px) and (min-width: 551px) {
+    header {
+        min-height: 150px;
+        position: absolute;
+    }
+    main {
+        margin-top: 150px;
+    }
     .dates {
         width: 100%;
     }

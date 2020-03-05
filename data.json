@@ -54,6 +54,13 @@
         "title": "From monolith to serverless in 6 months",
         "description": "This talk is about serverless journey at Coople, where from last November we are working on changing monolith into full serverless system. It is about our successes but also about failures during developing and introducing the serverless event store and read models. It is also about changing culture from dev to devops and selling it to the company.",
         "about": "My name is Michal Knobel. I am a Solution Architect at Coople with more than 10 years of experience. I am quite new to serverless, but I have already learned a lot. Convincing people to Serverless is very hard but I went through this journey with 5 teams at Coople, so the audience at ServerlessDays should be easier to do."
+    },
+    "guillaume-blaquiere": {
+        "name": "Guillaume Blaquiere",
+        "photo": "guillaume-blaquiere.jpg",
+        "title": "Secure serverless product with API Key",
+        "description": "This session will present how to leverage of Cloud Endpoint deployed on Cloud Run for securing App Engine, Cloud Run and Cloud Function with an API keys and the security trade offs that this choice implies.",
+        "about": "Guillaume Blaquiere is a GDE on Cloud Platform since 2019 and works at Veolia as Scrum Master and Lead Developer in the Digital Factory. Java developer since more than 15 years, and despite positions of responsibilities, he has always kept his wish of create, develop, discover and test new solution, especially in the Cloud, the machine learning or Python and Go language.</br>Innovation addict and Google Cloud 3x certified, writer and speaker on his free time, he's fascinated by the serverless solution and all the 'usual' problem that it solves"
     }
 
 }

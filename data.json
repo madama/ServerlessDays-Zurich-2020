@@ -51,7 +51,7 @@
     "michal-knobel": {
         "name": "Michal Knobel",
         "photo": "michal-knobel.png",
-        "title": "From monolith to serverless in 6 months",
+        "title": "Serverless Event Store",
         "description": "This talk is about serverless journey at Coople, where from last November we are working on changing monolith into full serverless system. It is about our successes but also about failures during developing and introducing the serverless event store and read models. It is also about changing culture from dev to devops and selling it to the company.",
         "about": "My name is Michal Knobel. I am a Solution Architect at Coople with more than 10 years of experience. I am quite new to serverless, but I have already learned a lot. Convincing people to Serverless is very hard but I went through this journey with 5 teams at Coople, so the audience at ServerlessDays should be easier to do."
     },

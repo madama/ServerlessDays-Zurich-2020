@@ -61,6 +61,13 @@
         "title": "Secure serverless product with API Key",
         "description": "This session will present how to leverage of Cloud Endpoint deployed on Cloud Run for securing App Engine, Cloud Run and Cloud Function with an API keys and the security trade offs that this choice implies.",
         "about": "Guillaume Blaquiere is a GDE on Cloud Platform since 2019 and works at Veolia as Scrum Master and Lead Developer in the Digital Factory. Java developer since more than 15 years, and despite positions of responsibilities, he has always kept his wish of create, develop, discover and test new solution, especially in the Cloud, the machine learning or Python and Go language.</br>Innovation addict and Google Cloud 3x certified, writer and speaker on his free time, he's fascinated by the serverless solution and all the 'usual' problem that it solves"
+    },
+    "christian-nwamba": {
+        "name": "Christian Nwamba",
+        "photo": "christian-nwamba.jpg",
+        "title": "Building Schedulers with Durable Functions",
+        "description": "Once in a while, you would want your application to be aware of some kind of state. This demand can get tricky because HTTP is designed to not have any state therefore you have to manage state either in the user’s browser/app or on your server. Durable Functions is pushing the boundaries and giving you some tools to build APIs that can keep track of state. You can take advantage of these stateful serverless functions to simplify complex business logic like event scheduling.",
+        "about": " Chris is a Senior Cloud Advocate at Microsoft where he enjoys making stuff with Serverless and JavaScript  for other developers."
     }
 
 }

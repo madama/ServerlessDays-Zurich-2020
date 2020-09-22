@@ -67,7 +67,14 @@
         "photo": "christian-nwamba.jpg",
         "title": "Building Schedulers with Durable Functions",
         "description": "Once in a while, you would want your application to be aware of some kind of state. This demand can get tricky because HTTP is designed to not have any state therefore you have to manage state either in the user’s browser/app or on your server. Durable Functions is pushing the boundaries and giving you some tools to build APIs that can keep track of state. You can take advantage of these stateful serverless functions to simplify complex business logic like event scheduling.",
-        "about": " Chris is a Senior Cloud Advocate at Microsoft where he enjoys making stuff with Serverless and JavaScript  for other developers."
+        "about": "Chris is a Senior Cloud Advocate at Microsoft where he enjoys making stuff with Serverless and JavaScript  for other developers."
+    },
+    "mirko-eberlein": {
+        "name": "Mirko Eberlein",
+        "photo": "mirko-eberlein.jpg",
+        "title": "Run a rock solid website with the serverless CloudeeCMS",
+        "description": "With the Serverless CloudeeCMS you can run a rock solid modern enterprise grade website, even if you’re on a tight budget.<ul><li>No limitations in website layout design</li><li>Easy to use online editor, no command line hacking</li><li>Your data in your hands. Runs in your own AWS account</li><li>Integrate powerful site search engines</li><li>OpenSource and extensible</li><li>Secure by design, website and editor / DB are decoupled from each other</li><li>Easy backup / restore function</li></ul>",
+        "about": "Mirko Eberlein is Senior Developer at WebGate Consulting and an active part of the CloudeeCMS team. He has been programming with passion for over 25 years."
     }
 
 }
